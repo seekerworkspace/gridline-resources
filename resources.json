@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "game": "GRIDLINE",
+  "required": true,
+  "version": 2,
+  "package": {
+    "file": "gridline_resources_v2.zip",
+    "url": "https://seekerworkspace.github.io/gridline-resources/packages/gridline_resources_v2.zip",
+    "size": 18318249,
+    "sha256": "68f5b49cc53e78642db42f8dafd9dbceec436cdc660153aa9ea01291c3cca93b"
+  },
+  "music": [
+    {
+      "id": "nothing_on_my_mind",
+      "title": "Nothing On My Mind",
+      "file": "music/nothing_on_my_mind.mp3",
+      "size": 3726360,
+      "durationSeconds": 151
+    },
+    {
+      "id": "come_my_way",
+      "title": "Come My Way",
+      "file": "music/come_my_way.mp3",
+      "size": 3786660,
+      "durationSeconds": 160
+    },
+    {
+      "id": "blacktop_business",
+      "title": "Blacktop Business",
+      "file": "music/blacktop_business.mp3",
+      "size": 3799439,
+      "durationSeconds": 160
+    },
+    {
+      "id": "aint_in_a_rush",
+      "title": "Ain't In A Rush",
+      "file": "music/aint_in_a_rush.mp3",
+      "size": 7139392,
+      "durationSeconds": 296
+    }
+  ]
+}
