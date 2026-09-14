@@ -2,10 +2,10 @@
   "schema": 1,
   "game": "GRIDLINE",
   "required": true,
-  "version": 2,
+  "version": 1,
   "package": {
-    "file": "gridline_resources_v2.zip",
-    "url": "https://seekerworkspace.github.io/gridline-resources/packages/gridline_resources_v2.zip",
+    "file": "gridline_resources_v1.zip",
+    "url": "https://seekerworkspace.github.io/gridline-resources/packages/gridline_resources_v1.zip",
     "size": 13275106,
     "sha256": "ea92b943d26176585dfdd33ddb5e7d207e506473fa120a21ca444dfa16d15428"
   },
