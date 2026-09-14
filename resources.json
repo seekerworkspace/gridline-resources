@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "game": "GRIDLINE",
+  "required": true,
+  "version": 1,
+  "package": {
+    "file": "gridline_resources_v1.zip",
+    "url": "https://SEU_USUARIO.github.io/gridline-resources/packages/gridline_resources_v1.zip",
+    "size": 0,
+    "sha256": "GERADO_PELO_SCRIPT"
+  }
+}
